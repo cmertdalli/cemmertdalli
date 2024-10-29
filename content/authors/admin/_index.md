@@ -10,8 +10,8 @@ first_name: Cem Mert
 last_name: Dalli
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
