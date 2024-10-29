@@ -18,8 +18,8 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-    design:
-      css_class: "dark text-light"
+    #design:
+    #  css_class: "dark text-light"
     #   background:
     #     color: black
      #    image:
