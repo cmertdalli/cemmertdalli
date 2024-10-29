@@ -47,9 +47,10 @@ profiles:
  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Causal Machine Learning
+  - Geo-Spatial Analysis
+  - Historical Political Development
+  - Democratization
 
 education:
   - area: PhD Artificial Intelligence
