@@ -8,6 +8,15 @@ design:
   spacing: '5rem'
 
 sections:
+  - block: markdown
+    content:
+      title: "Curriculum Vitae"
+      text: |
+        <iframe src="/uploads/Dalli_CV_Nov2024.pdf" width="100%" height="800px">
+          Your browser does not support PDFs. Please download the PDF to view it: 
+          <a href="/uploads/Dalli_CV_Nov2024.pdf">Download CV</a>.
+        </iframe>
+
   - block: collection
     content:
       title: Selected Projects
@@ -20,7 +29,3 @@ sections:
       fill_image: false
       columns: 3
 ---
-<iframe src="uploads/Dalli_CV_Nov2024.pdf" width="100%" height="800px">
-  Your browser does not support PDFs. Please download the PDF to view it: 
-  <a href="uploads/Dalli_CV_Nov2024.pdf">Download CV</a>.
-</iframe>
