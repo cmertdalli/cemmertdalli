@@ -53,8 +53,8 @@ interests:
   - Democratization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: MSc Applied Data Science
+    institution: University of Gothenburg
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -184,4 +184,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a data manager at the Quality of Government Institute, housed within the Department of Political Science at the University of Gothenburg. My research interests lie in quantitative social science, focusing on historical political development and contemporary issues at the intersection of poverty, aid, and conflict. Currently, I am completing my master’s thesis on the impact of Chinese and World Bank development aid on poverty reduction in Africa.
+
+With a deep interest in computational social science, I am preparing to apply to PhD programs to further develop my expertise as a methodologist. I am particularly interested in advancing analytical and AI-driven approaches to complex social issues.
