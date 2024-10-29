@@ -53,13 +53,13 @@ interests:
   - Democratization
 
 education:
-  - area: MSc Applied Data Science
+  - area: MSc in Applied Data Science
     institution: University of Gothenburg
   
-  - area: MSc Political Science (Welfare Policies and Management)
+  - area: MSc in Political Science (Welfare Policies and Management)
     institution: Lund University
    
-  - area: BA Political Science and International Relations, History
+  - area: BA in Political Science and International Relations, History
     institution: Bogazici University
  
 # Skills
