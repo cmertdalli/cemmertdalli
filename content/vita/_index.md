@@ -4,8 +4,9 @@ url: '/vita'
 layout: 'page' # Use 'page' or a suitable layout
 ---
 
-<iframe src="https://www.dropbox.com/s/hfbucvewprp0m4z9kc40a/Dalli_CV_Nov2024.pdf?raw=1" width="100%" height="800px">
+<iframe src="https://drive.google.com/file/d/1_QNuQNDHVE-NcDiLMfkALu8IkW9dv9nU/preview" width="100%" height="800px">
   Your browser does not support PDFs. Please download the PDF to view it: 
-  <a href="https://www.dropbox.com/s/hfbucvewprp0m4z9kc40a/Dalli_CV_Nov2024.pdf?dl=1">Download CV</a>.
+  <a href="https://drive.google.com/file/d/1_QNuQNDHVE-NcDiLMfkALu8IkW9dv9nU/view?usp=sharing">Download CV</a>.
 </iframe>
+
 
