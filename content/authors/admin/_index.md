@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:cem.mert.dalli@gu.se'
-    label: E-mail Me
+    label: E-mail me
   - icon: brands/x
     url: https://twitter.com/cemmd
   ##- icon: brands/instagram

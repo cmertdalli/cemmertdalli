@@ -1,9 +1,9 @@
 ---
 url: '/vita'
-layout: 'page'
+layout: 'page' # Use 'page' or a suitable layout
 ---
 
-<iframe src="/pdfjs/viewer.html?file=/uploads/Dalli_CV_Nov2024.pdf" width="100%" height="800px" style="border: none;">
+<iframe src="https://drive.google.com/file/d/1_QNuQNDHVE-NcDiLMfkALu8IkW9dv9nU/preview" width="150%" height="3600px">
   Your browser does not support PDFs. Please download the PDF to view it: 
-  <a href="/uploads/Dalli_CV_Nov2024.pdf">Download CV</a>.
+  <a href="https://drive.google.com/file/d/1_QNuQNDHVE-NcDiLMfkALu8IkW9dv9nU/view?usp=sharing">Download CV</a>.
 </iframe>
