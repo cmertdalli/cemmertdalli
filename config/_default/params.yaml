@@ -48,6 +48,13 @@ footer:
       share_alike: true
       allow_commercial: false
 
+# Appearance
+appearance:
+  mode: system
+  color: emerald
+  customCSS:
+    - css/custom.css
+
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
@@ -59,3 +66,4 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
