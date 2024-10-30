@@ -1,0 +1,7 @@
+/* Move all content up by adjusting margins and paddings */
+
+
+/* Adjusting padding for sections */
+section {
+    padding-top: 0px !important;
+}
