@@ -1,0 +1,18 @@
+/* Move all content up by adjusting margins and paddings */
+
+/* Main content area */
+.content, .main-content, .wrapper, .container {
+    margin-top: 300px !important;
+    padding-top: 300px !important;
+}
+
+/* Header and navbar */
+.header, .navbar, .site-header {
+    margin-bottom: 30px !important;
+    padding-bottom: 30px !important;
+}
+
+/* Adjusting padding for sections */
+section {
+    padding-top: 30px !important;
+}
