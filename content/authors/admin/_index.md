@@ -92,4 +92,4 @@ education:
 
 I am a data manager at the Quality of Government Institute, housed within the Department of Political Science at the University of Gothenburg. My research interests lie in quantitative social science, focusing on historical political development and contemporary issues at the intersection of poverty, aid, and conflict. Currently, I am completing my master’s thesis on the impact of Chinese and World Bank development aid on poverty reduction in Africa.
 
-With a deep interest in computational social science, I am preparing to apply to PhD programs to further develop my expertise as a methodologist. I am particularly interested in advancing analytical and AI-driven approaches to complex social issues.
+With a deep interest in computational social science, I am preparing to apply to PhD programs to further develop myself as a methodologist. My primary focus lies in advancing analytical and AI-driven approaches to tackle complex social issues, with a particular emphasis on integrating geospatial data and causal machine learning for deeper insights.
