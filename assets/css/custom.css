@@ -2,8 +2,8 @@
 
 /* Main content area */
 .content, .main-content, .wrapper, .container {
-    margin-top: -500px !important;
-    padding-top: -500px !important;
+    margin-top: -1000px !important;
+    padding-top: -1000px !important;
 }
 
 /* Header and navbar */
@@ -14,5 +14,5 @@
 
 /* Adjusting padding for sections */
 section {
-    padding-top: -500px !important;
+    padding-top: 0px !important;
 }
