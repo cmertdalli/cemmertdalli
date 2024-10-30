@@ -49,11 +49,11 @@ footer:
       allow_commercial: false
 
 # Appearance
-appearance:
-  mode: system
-  color: emerald
-  customCSS:
-    - css/custom.css
+#appearance:
+#  mode: system
+#  color: emerald
+#  customCSS:
+#    - css/custom.css
 
 # Localization
 locale:
