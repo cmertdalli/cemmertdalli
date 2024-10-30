@@ -7,8 +7,6 @@
 appearance:
   mode: system
   color: emerald
-  customCSS:
-    - css/custom.css
 
 # SEO
 marketing:
@@ -50,7 +48,12 @@ footer:
       share_alike: true
       allow_commercial: false
 
-
+# Appearance
+appearance:
+  mode: system
+  color: emerald
+  customCSS:
+    - css/custom.css
 
 # Localization
 locale:
