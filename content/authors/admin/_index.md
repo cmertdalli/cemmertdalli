@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/cmertdalli
   - icon: brands/linkedin
-    url: https://www.linkedin.com/cemmd
+    url: https://www.linkedin.com/in/cemmd/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=9sF3LmEAAAAJ&hl=en
  # - icon: academicons/orcid
