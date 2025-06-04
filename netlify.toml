@@ -19,3 +19,8 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/feedback"
+  to = "https://www.admonymous.co/cemmd"
+  status = 301
