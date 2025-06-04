@@ -24,3 +24,8 @@
   from = "/feedback"
   to = "https://www.admonymous.co/cemmd"
   status = 301
+
+[[redirects]]
+  from = "/zoom"
+  to = "https://gu-se.zoom.us/j/2277106727"
+  status = 301
